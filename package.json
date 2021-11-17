@@ -1,6 +1,6 @@
 {
-  "name": "next-tailwindcss-dashboard-starter",
-  "description": "Starter TailwindCSS dashboard template built with Next.js",
+  "name": "next-auth0-demo",
+  "description": "Next.js authentication example with Auth0",
   "private": true,
   "license": "MIT",
   "author": "Michael Wanyoike<https://github.com/brandiqa>",
